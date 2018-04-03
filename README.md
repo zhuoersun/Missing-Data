@@ -1,7 +1,7 @@
 # Missing-Data
-This is a list of R codes necessary for simulations and real data analysis for the paper of "Semiparametric Estimation in Regression with Missing Covariates Using Single-Index Models". 
+This is a list of R codes necessary for simulations and the real data analysis for the paper of "Semiparametric Estimation in Regression with Missing Covariates Using Single-Index Models". 
 
-Simulations
+Simulation
 ----------------
 
 * Please put all .R files under the same directory;
